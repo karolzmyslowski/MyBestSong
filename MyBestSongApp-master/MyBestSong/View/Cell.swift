@@ -28,7 +28,6 @@ class Cell: UITableViewCell {
                     self.videoPreviewImage.image = UIImage(data: data)
                 }
             }catch{
-                
             }
         }
     }
